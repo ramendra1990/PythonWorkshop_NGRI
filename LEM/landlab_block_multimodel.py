@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Feb 18 11:22:42 2020
-
-@author: bodo
 """
 ## Import what is needed
 from landlab import RasterModelGrid

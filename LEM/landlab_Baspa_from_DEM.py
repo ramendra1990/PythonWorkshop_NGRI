@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Feb-18-2020
-
-@author: Bodo Bookhagen
 Install Landlab with conda:
     conda create -n landlab spyder ipython gdal landlab numpy scipy
     source activate landlab

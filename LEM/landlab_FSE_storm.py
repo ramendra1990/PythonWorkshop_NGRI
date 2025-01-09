@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Mon Feb 17 18:45:51 2020
-
-@author: Bodo Bookhagen
 """
 
 from landlab.components import LinearDiffuser

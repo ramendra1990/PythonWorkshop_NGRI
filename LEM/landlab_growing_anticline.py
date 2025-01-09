@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Feb 18 11:52:01 2020
 
-@author: Bodo Bookhagen
 """
 from landlab.components import FlowAccumulator, FastscapeEroder
 from landlab import RasterModelGrid

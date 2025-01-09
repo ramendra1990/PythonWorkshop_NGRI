@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Mon Feb 17 15:14:44 2020
-
-@author: Bodo Bookhagen
 """
 from landlab import RasterModelGrid
 import numpy as np

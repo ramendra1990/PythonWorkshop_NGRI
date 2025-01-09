@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Feb 18 07:48:13 2020
-
-@author: Bodo Bookhagen
 """
 import numpy as np
 from matplotlib import pyplot as pl

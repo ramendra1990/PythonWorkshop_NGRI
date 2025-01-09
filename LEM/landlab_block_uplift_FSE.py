@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Feb 18 09:05:44 2020
-
-@author: bodo
 """
 
 from landlab.components import FlowAccumulator, FastscapeEroder
