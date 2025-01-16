@@ -1,0 +1,10 @@
+name: geo_environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.8
+  - numpy=1.26.4
+  - matplotlib=3.10.0
+  - watermark=2.5.0
+  - gdal=3.10.0
+  - richdem=2.3.0
