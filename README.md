@@ -1,7 +1,8 @@
 # PythonWorkshop_NGRI
 Scripts and data for python for geosciences workshop @[SkillIndia](https://www.skillindiadigital.gov.in/home) @[NGRI](https://www.ngri.res.in/) </br>
 </br>
-[![Binder](https://img.shields.io/badge/Gaussian%20Hill%20and%20DEM%20analysis-blue?style=plastic&logo=python&logoColor=green&color=brown)](https://mybinder.org/v2/gh/ramendra1990/PythonWorkshop_NGRI/main?labpath=.%2FDEM+%2FGaussianHill%2FGaussian+Hill+and+DEM+analysis.ipynb)</br></br>
+[![Binder](https://img.shields.io/badge/Gaussian%20Hill%20and%20DEM%20analysis-blue?style=plastic&logo=python&logoColor=green&color=brown)](https://mybinder.org/v2/gh/ramendra1990/PythonWorkshop_NGRI/main?labpath=.%2FDEM+%2FGaussianHill%2FGaussian+Hill+and+DEM+analysis.ipynb)</br>
+[![Binder](https://img.shields.io/badge/Gaussian%20DEM%20flow%20analysis-blue?style=plastic&logo=python&logoColor=lime&color=blue)](https://mybinder.org/v2/gh/ramendra1990/PythonWorkshop_NGRI/main?labpath=.%2FDEM%2FGaussianHill%2FGaussian+Hill+-+FlowDirection+and+FlowAccumulation.ipynb)</br></br>
 The scripts consist of jupyter notebooks (.ipynb) as well as basic python files (.py). In order to run the jupyter notebooks you can either download the files and run them from your local system or more conviniently use the binder tabs to run them. Binder tabs will create a remote repository/environment with all the necssary modules and files and you can then run the individual ipython notebooks.
 
 ### On your local system
