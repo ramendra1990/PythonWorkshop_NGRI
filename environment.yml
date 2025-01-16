@@ -1,4 +1,4 @@
-name: geo_environment
+name: LEM_environment
 channels:
   - conda-forge
 dependencies:
