@@ -1,10 +1,10 @@
 # PythonWorkshop_NGRI
 Scripts and data for python for geosciences workshop @[SkillIndia](https://www.skillindiadigital.gov.in/home) @[NGRI](https://www.ngri.res.in/) </br>
 </br>
-[![Binder](https://img.shields.io/badge/Gaussian%20Hill%20and%20DEM%20analysis-blue?style=plastic&logo=python&logoColor=green&color=brown)](https://mybinder.org/v2/gh/ramendra1990/PythonWorkshop_NGRI/main?labpath=.%2FDEM%2FGaussianHill%2FGaussian+Hill+and+DEM+analysis.ipynb)</br>
-[![Binder](https://img.shields.io/badge/Hypsometry-binder-blue?style=plastic&logo=python&logoColor=crimson&labelColor=aliceblue)](https://mybinder.org/v2/gh/ramendra1990/PythonWorkshop_NGRI/main?labpath=.%2FDEM%2FEarth_Mars%2FEarth+and+Mars+Hypsometry.ipynb)</br>
+[![Binder](https://img.shields.io/badge/Gaussian%20Hill%20and%20DEM%20analysis-blue?style=plastic&logo=python&logoColor=green&color=brown)](https://mybinder.org/v2/gh/ramendra1990/PythonWorkshop_NGRI/main?labpath=.%2FDEM%2FGaussianHill%2FGaussian+Hill+and+DEM+analysis.ipynb)
+[![Binder](https://img.shields.io/badge/Hypsometry-binder-blue?style=plastic&logo=python&logoColor=crimson&labelColor=aliceblue)](https://mybinder.org/v2/gh/ramendra1990/PythonWorkshop_NGRI/main?labpath=.%2FDEM%2FEarth_Mars%2FEarth+and+Mars+Hypsometry.ipynb)
 [![Binder](https://img.shields.io/badge/Gaussian%20DEM%20flow%20analysis-blue?style=plastic&logo=python&logoColor=lime&color=blue)](https://mybinder.org/v2/gh/ramendra1990/PythonWorkshop_NGRI/main?labpath=.%2FDEM%2FGaussianHill%2FGaussian+Hill+-+FlowDirection+and+FlowAccumulation.ipynb)</br>
-[![Binder](https://img.shields.io/badge/LEM%20Gaussian%20Hill-blue?style=plastic&logo=python&logoColor=greenyellow&color=darksalmon)](https://mybinder.org/v2/gh/ramendra1990/PythonWorkshop_NGRI/main?labpath=.%2FLEM%2FLEM+-+Gaussian+Hill.ipynb)</br>
+[![Binder](https://img.shields.io/badge/LEM%20Gaussian%20Hill-blue?style=plastic&logo=python&logoColor=greenyellow&color=darksalmon)](https://mybinder.org/v2/gh/ramendra1990/PythonWorkshop_NGRI/main?labpath=.%2FLEM%2FLEM+-+Gaussian+Hill.ipynb)
 [![Binder](https://img.shields.io/badge/LEM%20Baspa%20Valley-blue?style=plastic&logo=python&logoColor=darkslateblue&color=deepskyblue)](https://mybinder.org/v2/gh/ramendra1990/PythonWorkshop_NGRI/main?labpath=.%2FLEM%2FBaspa+-+Landlab+Modeling+from+a+DEM.ipynb)</br></br>
 
 The scripts consist of jupyter notebooks (.ipynb) as well as basic python files (.py). Jupyter notebooks are relatively straight forward examples and can be run for getting basic intuition about DEM analysis and landscape evolution modelling. For thoose of you who are more interested, they can experiment witth the python files in the `LEM` directory. </br>
