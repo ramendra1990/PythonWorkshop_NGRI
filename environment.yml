@@ -10,3 +10,4 @@ dependencies:
   - gdal=3.10.0
   - richdem=2.3.0
   - landlab=2.9.2
+  - openpyxl
